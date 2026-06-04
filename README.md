@@ -73,4 +73,5 @@ Contributions are welcome. Please fork the repository, create a feature branch, 
 License
 
 This project is licensed under the MIT License.
-DEVELOPED BY: KHANYISWA OWETHU NDZENDE                                                                                                                                       GITHUB: @imithandzende           
+DEVELOPED BY: KHANYISWA OWETHU NDZENDE                                                                                                                                                  
+GitHub:@imithandzennde
