@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "AI-Productivity-Assistant" },
+      { name: "description", content: "AI Workplace Companion automates professional tasks with AI-powered tools for enhanced productivity." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "AI-Productivity-Assistant" },
+      { property: "og:description", content: "AI Workplace Companion automates professional tasks with AI-powered tools for enhanced productivity." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "AI-Productivity-Assistant" },
+      { name: "twitter:description", content: "AI Workplace Companion automates professional tasks with AI-powered tools for enhanced productivity." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a75f444e-d41a-4579-bba3-4520d4ddada3/id-preview-690b0777--c98ada42-b563-44b5-a645-2b0410bf41be.lovable.app-1780567298695.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a75f444e-d41a-4579-bba3-4520d4ddada3/id-preview-690b0777--c98ada42-b563-44b5-a645-2b0410bf41be.lovable.app-1780567298695.png" },
     ],
     links: [
       {
