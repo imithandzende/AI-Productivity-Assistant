@@ -1,14 +1,15 @@
-Project Overview
+AI-Productivity-Assistant
 
-This project is designed to provide a simple, efficient, and scalable solution for [briefly describe the purpose of your project].
+PROJECT OVERVIEW
+This project is designed to provide a simple, efficient, and scalable solution for helping students and professionals manage daily tasks and study sessions using AI powered scheduling.
 
-The application helps users to [main objective or benefit] by offering an intuitive interface and reliable functionality.
+The application helps users to to save time and stay orginized by offering an intuitive interface and reliable functionality.
 
 Features
-Feature 1: Brief description
-Feature 2: Brief description
-Feature 3: Brief description
-Feature 4: Brief description
+Feature 1: Task manager -Add,edit,and delete tasks with deadlines.
+Feature 2: AI study planner- Generates smart daily study schedules based on your task.
+Feature 3: Progress tracker-visual dashboard shows completed vs pending task.
+Feature 4: Responsive design- Works smoothly on phone,tablet, and deskop.                       
 Responsive and user-friendly design
 Secure and efficient performance
 Tools Used
@@ -72,3 +73,4 @@ Contributions are welcome. Please fork the repository, create a feature branch, 
 License
 
 This project is licensed under the MIT License.
+DEVELOPED BY: KHANYISWA OWETHU NDZENDE                                                                                                                                       GITHUB: @imithandzende           
